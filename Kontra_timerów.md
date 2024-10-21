@@ -1,4 +1,4 @@
-##Cel ćwiczenia:
+## Cel ćwiczenia:
 
 Napisanie programu, w którym po uruchomieniu przycisku lewego ramie dojedzie do prawej
 krańcówki a następnie:
